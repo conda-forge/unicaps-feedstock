@@ -1,5 +1,5 @@
 {% set name = "unicaps" %}
-{% set version = "1.1.0" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/unicaps-{{ version }}.tar.gz
-  sha256: d97a7f0d01475b615b0ebbda8940f5a41d0d0e8175196c28e30f1fd722af32fa
+  sha256: 1dfe15810132b1236c39dc994ee571d30a4772fbfaf4f4adeae4ba6b5f056548
 
 build:
   noarch: python
