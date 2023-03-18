@@ -1,11 +1,11 @@
-About unicaps
-=============
+About unicaps-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unicaps-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sergey-scat/unicaps
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/unicaps-feedstock/blob/main/LICENSE.txt)
 
 Summary: Universal CAPTCHA Solver for humans
 
